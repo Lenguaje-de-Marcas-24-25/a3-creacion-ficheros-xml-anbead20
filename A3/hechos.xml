@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hechos>
+   <hecho descripcion="Lanzamiento del Sputnik, el primer satélite artificial">
+      <dia>4</dia>
+      <mes>10</mes>
+      <año>1957</año>
+   </hecho>
+   <hecho descripcion="El primer humano en el espacio, Yuri Gagarin">
+      <dia>12</dia>
+      <mes>4</mes>
+      <año>1961</año>
+   </hecho>
+   <hecho descripcion="Alunizaje del Apolo 11, los primeros humanos en la Luna">
+      <dia>20</dia>
+      <mes>7</mes>
+      <año>1969</año>
+   </hecho>
+   <hecho descripcion="Lanzamiento del telescopio espacial Hubble">
+      <dia>24</dia>
+      <mes>4</mes>
+      <año>1990</año>
+   </hecho>
+   <hecho descripcion="Primer rover en Marte, Sojourner, de la misión Mars Pathfinder">
+      <dia>4</dia>
+      <mes>7</mes>
+      <año>1997</año>
+   </hecho>
+</hechos>
